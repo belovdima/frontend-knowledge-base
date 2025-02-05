@@ -22,23 +22,23 @@
 - [Тестирование](docs/testing.md) - написание тестов, инструменты (Jest, Karma, Cypress).
 - [Аналитика](docs/analytics.md) - базовое понимание работы систем аналитики на примере Google Analytics для отслеживания поведения пользователей.
 
-- ### 4. Архитектурные подходы
+### 4. Архитектурные подходы
 В этом разделе:
 - [Microfrontend](docs/architecture-approaches.md) - изучение архитектуры Microfrontend
 
-- ### 5. Основной стек и фреймворки
+### 5. Основной стек и фреймворки
 В этом разделе:
 - [Angular](docs/frameworks.md) - изучение Angular
 
-- ### 6. Библиотеки и инструменты для реализации функционала
+### 6. Библиотеки и инструменты для реализации функционала
 В этом разделе:
-- [UI-компоненты и дизайн](docs/libraries.md) - Material UI и Ant Design, Storybook.
+- [UI-компоненты и дизайн](docs/libraries.md) - Material UI и Ant Design, Storybook, GreenSock (GSAP) и Anime JS.
+- [Управление состоянием и работа с данными](docs/state-managers.md) - Redux, Redux ToolKit, Redux Thunk, MobX, Zustand, react-query.
 
 ### 3. [Вопросы для собеседований](docs/interview_questions.md)
 В этом разделе:
 - Собраны типовые вопросы для собеседований.
 - Приведены примерные ответы и пояснения.
-- Добавлены комментарии и личные рекомендации по подготовке.
 
 ---
 
