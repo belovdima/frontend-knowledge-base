@@ -1,6 +1,4 @@
-# 📚 JavaScript: Полный Гид
-
-## 📖 Оглавление
+# 📖 Оглавление
 
 ### 🟢 Основы JavaScript
 - [`let`, `const`, `var` – в чём разница?](#variables)
